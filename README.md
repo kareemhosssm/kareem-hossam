@@ -112,8 +112,6 @@ Angular, TypeScript, CSS
 ---
 ## 📫 Let's Connect!
 
-## 📫 Let's Connect!
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kareem-mohamed-15b84a3aa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
