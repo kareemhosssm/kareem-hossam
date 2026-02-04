@@ -56,7 +56,7 @@ Angular-based frontend application for a hotel booking platform.
 **Technologies:**  
 Angular, TypeScript, HTML, CSS
 
-🔗 GitHub Repo: (add link)  
+🔗 GitHub Repo: (https://github.com/kareemhosssm/H-K-Hotel)  
 🔗 Live Demo: (add link if available)
 
 ---
@@ -111,5 +111,4 @@ Angular, TypeScript, CSS
 
 ## 📫 Let's Connect!
 - LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/kareem-mohamed-15b84a3aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Be2maVnZ6Qiek5oudLcv92A%3D%3D)
-- GitHub: https://github.com/KareemMohamed
 - GitHub: https://github.com/kareemhosssm
