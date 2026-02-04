@@ -112,13 +112,15 @@ Angular, TypeScript, CSS
 ---
 ## 📫 Let's Connect!
 
+## 📫 Let's Connect!
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/kareem-mohamed-15b84a3aa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  <a href="https://www.linkedin.com/in/kareem-mohamed-15b84a3aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kareemhosssm" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <a href="https://github.com/kareemhosssm">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
