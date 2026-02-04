@@ -11,47 +11,105 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-# 👋 Hi, I'm Kareem
+# Hi there, I'm Kareem Mohamed 👋
 
-Frontend Developer focused on Angular and modern web UI.
+Frontend Developer specialized in Angular, passionate about building clean, responsive, and user-friendly web applications.
 
-## 🛠️ Tech Skills
+🌍 Location: Zagazig  
+💼 Focus: Angular Frontend Development  
+🚀 Interested in: Modern UI, scalable components, and real-world projects
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Technologies
 - Angular
-- JavaScript
 - TypeScript
-- HTML5 & CSS3
-- Tailwind
-- Bootstrap
+- JavaScript (ES6+)
+- HTML5 | CSS3
 - Responsive Design
-- REST APIs
+- RxJS
+
+### Backend Integration
+- RESTful APIs
+- Authentication & Authorization (JWT-based APIs)
+
+### Tools & Version Control
 - Git & GitHub
+- VS Code
+- Postman
 
-## 📂 Projects
-- E-commerce App
-- Angular Hotel Booking UI
-- Login/Auth Screens
-- Dashboard UI
+---
 
+## 🚀 Featured Projects
 
+### 🏨 Hotel Booking System (Frontend)
+Angular-based frontend application for a hotel booking platform.
 
-### Connect with Me :
+**Key Features:**
+- Room listing & booking UI
+- Date selection and validation
+- API integration
+- Responsive design
 
+**Technologies:**  
+Angular, TypeScript, HTML, CSS
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+🔗 GitHub Repo: (add link)  
+🔗 Live Demo: (add link if available)
 
+---
 
+### 🔐 Authentication System UI
+Frontend implementation for login, register, and forgot password flows.
 
+**Key Features:**
+- Reactive Forms
+- Validation & error handling
+- Clean UI components
 
+**Technologies:**  
+Angular, TypeScript
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+---
+
+### 📊 Admin Dashboard UI
+Modern dashboard interface with reusable components.
+
+**Key Features:**
+- Dashboard layout
+- Charts & tables
+- Component-based structure
+
+**Technologies:**  
+Angular, TypeScript, CSS
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareemhosssm&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareemhosssm&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=kareemhosssm)
+
+---
+
+## 📚 Continuous Learning
+- Advanced Angular Concepts
+- Performance Optimization
+- Clean Code & Best Practices
+- UI/UX Improvement
+
+---
+
+## 🌐 Languages
+- Arabic: Native
+- English: Good
+
+---
+
+## 📫 Let's Connect!
+- LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/kareem-mohamed-15b84a3aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Be2maVnZ6Qiek5oudLcv92A%3D%3D)
+- GitHub: https://github.com/KareemMohamed
+- GitHub: https://github.com/kareemhosssm
