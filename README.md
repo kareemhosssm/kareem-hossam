@@ -6,10 +6,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer%20(Angular);Building%20modern%20web%20interfaces;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
+</p>
+ 
 
 # Hi there, I'm Kareem Mohamed 👋
 
@@ -108,7 +110,15 @@ Angular, TypeScript, CSS
 - English: Good
 
 ---
-
 ## 📫 Let's Connect!
-- LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/kareem-mohamed-15b84a3aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Be2maVnZ6Qiek5oudLcv92A%3D%3D)
-- GitHub: https://github.com/kareemhosssm
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kareem-mohamed-15b84a3aa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kareemhosssm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  </a>
+</p>
+
